@@ -2,7 +2,7 @@
 # Name : Vishal S
 # Register Number : 212223110063
 # Date : 14/11/24
-# Aim
+# Aim:
  To develop a project Course Reservation and Exam Registration System using 
 Rational Rose Software and to implement the software in Java.
 # PROBLEMSTATEMENT: 
